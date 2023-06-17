@@ -1,8 +1,8 @@
-[![MasterHead](https://projectyuga.org/images_5/ai_secondary_3.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:2500/1*jdSgbuQ3TkfXFBROVzc-ow.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MD MOYNUL ISLAM</h1>
 <h3 align="center">A passionate Artificial Intelligence enthusiast from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moynul75&label=Profile%20views&color=0e75b6&style=flat" alt="moynul75" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
