@@ -31,7 +31,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MOYNUL75&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 
