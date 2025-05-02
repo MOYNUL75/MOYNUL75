@@ -48,6 +48,10 @@
 ### 😂 Random Meme
 <img src="https://i.imgflip.com/30b1gx.jpg" width="512px"/>
 
+### 💻 Random CSE Quote or Meme
+<img src="https://your-api.com/random-cse-meme" width="512px"/>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
