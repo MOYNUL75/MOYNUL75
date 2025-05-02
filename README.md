@@ -51,6 +51,10 @@
 ### 💻 Random CSE Quote or Meme
 <img src="https://your-api.com/random-cse-meme" width="512px"/>
 
+### 😂 CSE Humor
+<img src="https://i.imgur.com/5cKZMEY.png" width="500px" />
+
+
 
 
 
