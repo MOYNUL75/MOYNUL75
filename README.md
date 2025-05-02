@@ -1,7 +1,6 @@
 [![MasterHead](https://technicali.com/wp-content/uploads/2021/05/ai-in-erp-moving.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MD MOYNUL ISLAM</h1>
 <h3 align="center">A passionate Artificial Intelligence enthusiast from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moynul75&icon=0&label=👥 Profile%20Views&color=0e75b6&style=flat" alt="moynul75" /> </p> 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=moynul75&label=👥%20Profile%20Views&color=0e75b6&style=flat" alt="moynul75" />
 </p>
