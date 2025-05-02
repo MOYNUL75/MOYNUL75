@@ -46,7 +46,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MOYNUL75&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Random Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.imgflip.com/30b1gx.jpg" width="512px"/>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
