@@ -31,10 +31,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
   </a>
   <a href="https://scholar.google.com/citations?user=Dc6kIZEAAAAJ&hl=en" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-scholar.svg" alt="Google Scholar" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="30" />
   </a>
   <a href="https://www.researchgate.net/profile/Md-Moynul-Islam-2" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="ResearchGate" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="30" />
   </a>
 </p>
 -------------------------------
