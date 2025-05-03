@@ -11,15 +11,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
+-----------------------------------
 ### 💫 About Me
 
 - 🔭 Current Focus: Conducting research in the field of Artificial Intelligence.
 - 🌱 Currently Learning: Machine Learning, Deep Learning, and Neural Networks.
 - 💬 Feel free to ask about: Artificial Intelligence, Machine Learning, and Automation.
 - ⚡ Fun Fact: I may be laid-back, but I’m skilled at automating processes for maximum efficiency.
----
 
-### 🌐 Connect with Me
+----------------------------------
+
+### 🌐 **Connect with Me**
 
 <p align="left">
   <a href="https://linkedin.com/in/md-moynul-islam-b7065122a" target="blank">
@@ -28,9 +30,14 @@
   <a href="https://fb.com/profile.php?id=100008641861769" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
   </a>
+  <a href="https://scholar.google.com/citations?user=Dc6kIZEAAAAJ&hl=en" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-scholar.svg" alt="Google Scholar" width="30" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Md-Moynul-Islam-2" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/researchgate.svg" alt="ResearchGate" width="30" />
+  </a>
 </p>
-
----
+-------------------------------
 
 ### 💻 Languages & Tools
 
