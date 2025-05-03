@@ -24,19 +24,20 @@
 ### 🌐 **Connect with Me**
 
 <p align="left">
-  <a href="https://linkedin.com/in/md-moynul-islam-b7065122a" target="blank">
+  <a href="https://linkedin.com/in/md-moynul-islam-b7065122a" target="blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://fb.com/profile.php?id=100008641861769" target="blank">
+  <a href="https://fb.com/profile.php?id=100008641861769" target="blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
   </a>
-  <a href="https://scholar.google.com/citations?user=Dc6kIZEAAAAJ&hl=en" target="blank">
+  <a href="https://scholar.google.com/citations?user=Dc6kIZEAAAAJ&hl=en" target="blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="30" />
   </a>
   <a href="https://www.researchgate.net/profile/Md-Moynul-Islam-2" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="30" />
   </a>
 </p>
+
 -------------------------------
 
 ### 💻 Languages & Tools
