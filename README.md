@@ -13,11 +13,13 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **AI-powered animation videos**
-- 🌱 I’m learning **C#, PHP, and Laravel**
-- 💬 Ask me about **Artificial Intelligence & Machine Learning**
-- ⚡ Fun fact: *I may be lazy, but I'm smart enough to automate it!*
+- 🔭 Current Focus: Conducting research in the field of Artificial Intelligence
 
+- 🌱 Currently Learning: Machine Learning, Deep Learning, and Neural Networks
+
+- 💬 Feel free to ask about: Artificial Intelligence, Machine Learning, and Automation
+
+- ⚡ Fun Fact: I may be laid-back, but I’m skilled at automating processes for maximum efficiency.
 ---
 
 ### 🌐 Connect with Me
