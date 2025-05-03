@@ -13,12 +13,9 @@
 
 ### 💫 About Me
 
-- 🔭 Current Focus: Conducting research in the field of Artificial Intelligence
-
-- 🌱 Currently Learning: Machine Learning, Deep Learning, and Neural Networks
-
-- 💬 Feel free to ask about: Artificial Intelligence, Machine Learning, and Automation
-
+- 🔭 Current Focus: Conducting research in the field of Artificial Intelligence.
+- 🌱 Currently Learning: Machine Learning, Deep Learning, and Neural Networks.
+- 💬 Feel free to ask about: Artificial Intelligence, Machine Learning, and Automation.
 - ⚡ Fun Fact: I may be laid-back, but I’m skilled at automating processes for maximum efficiency.
 ---
 
