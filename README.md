@@ -60,20 +60,20 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moynul75&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moynul75&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=moynul75&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moynul75&theme=tokyonight" alt="GitHub Streak" />
+ <img align="center" src="https://streak-stats.demolab.com?user=moynul75&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MOYNUL75&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=moynul75&theme=onedark&no-frame=true&margin-w=10)
 
 ---
 
