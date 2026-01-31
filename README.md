@@ -73,7 +73,7 @@
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=moynul75&theme=onedark&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=moynul75&theme=onedark&no-bg=true)
 
 ---
 
@@ -85,7 +85,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=MOYNUL75&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=moynul75&limit=5)
 
 ---
 
