@@ -81,17 +81,14 @@ My goal is to contribute to impactful AI research and pursue advanced studies (M
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moynul75&layout=compact&theme=tokyonight&langs_count=10" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moynul75&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moynul75&show_icons=true&include_all_commits=true&theme=tokyonight" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moynul75&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=moynul75&theme=tokyonight" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moynul75&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
