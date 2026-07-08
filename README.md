@@ -24,7 +24,7 @@
 
 I am an **Artificial Intelligence enthusiast from Bangladesh** with a strong interest in  
 **Machine Learning, Deep Learning, and Intelligent Systems**.  
-My goal is to contribute to impactful AI research and pursue advanced studies (MSc / PhD).
+My goal is to contribute to impactful AI research and pursue advanced studies (PhD).
 
 - 🔬 **Research Interests:** AI, Machine Learning, Deep Learning  
 - 📚 **Current Learning:** Neural Networks, Model Optimization, Automation  
